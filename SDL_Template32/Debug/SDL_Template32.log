@@ -1,0 +1,3 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(459,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Example 10-05.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Asteroid.cpp
+  SDL_Template32.vcxproj -> C:\Users\deepa\Downloads\GAME1007_SDL_Week_10_Examples\GAME1007_SDL_Week_10_Examples\Example 5\Debug\subaqua.exe
